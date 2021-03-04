@@ -3,6 +3,7 @@
 
 **На данный момент:**
 - ⚙ Разрабатываю сайт [ComicsMan](https://github.com/Notikay/ComicsMan "Информация о комиксах")
+- 🔒 Создаю менеджер паролей [ManagePass](https://github.com/Notikay/ManagePass "Хранение паролей")
 - 👨‍💻 Участвую в соревнованиях [Codeforces](https://codeforces.com/ "Спортивное программирование")
 - 🔍 Изучаю машинное обучение
 <!--
